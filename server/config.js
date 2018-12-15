@@ -9,5 +9,6 @@ module.exports = {
     authSource: 'NotesManagement',
     autoReconnect: true,
     keepAlive: 1,
+    useNewUrlParser: true 
   },
 };
